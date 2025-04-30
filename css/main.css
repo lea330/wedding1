@@ -12,7 +12,7 @@ a{text-decoration:none;color:inherit;display: block;}
 p{color: #484848;}
 html, body {position: relative;background: #eee;}
 #wrap{max-width: 375px;background: #fff;margin: 0 auto;}
-button{background: inherit;border:none;box-shadow:none;border-radius:0;padding:0;overflow:visible;cursor:pointer}
+button{color:inherit;-webkit-appearance: none;background: inherit;border:none;box-shadow:none;border-radius:0;padding:0;overflow:visible;cursor:pointer}
 
 #con1, #con3{width:90%;margin: 0 5%;}
 #con1{position: relative;}
